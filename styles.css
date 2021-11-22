@@ -1,0 +1,122 @@
+ * {
+    margin: 0;
+    padding: 0;  
+    font-family: sans-serif;
+    box-sizing: border-box; 
+} 
+
+.Header,
+.Footer {
+    background-color: rgb(55, 146, 199);
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Header .Top-list {
+    color:white;
+    font-size: 20px;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 15px;
+    color: white
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none; 
+}
+
+.title-of-section {
+    color: rgb(46, 120, 163);
+    margin: 10px;
+    padding: 10px;
+}
+
+a:link { 
+    text-decoration: none;
+}
+
+nav a {
+    color: white;
+}
+
+p { 
+    margin: 10px;
+    padding: 10px;
+}
+
+.button {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    outline-style: solid;
+    border-radius: 10px;
+}
+
+
+
+#Membership-button {
+    color: rgb(250, 156, 6);
+}
+
+#instagram-button, 
+#facebook-button, 
+#youtube-button {
+    margin-bottom: 20px;
+    color: white;
+    box-shadow: 5px 5px #888888;
+}
+
+#instagram-button {
+    background-color: rgb(141, 62, 216);
+}
+
+#facebook-button {
+    background-color: rgb(72, 62, 216);
+
+}
+
+#youtube-button {
+    background-color: red;
+
+}
+
+.title-of-bottom-section, .bottom-list {
+    margin: 10px;
+    padding: 10px;
+}
+
+.bottom-list {
+    padding-top: 0px;
+    list-style-type: none;
+}
+
+.indented-bottom-list {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
